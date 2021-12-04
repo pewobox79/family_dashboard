@@ -6,11 +6,12 @@ export default function MainBoard() {
       height: 100vh;
       width: 100%;
       background-color: #23a8ba;
+      display: flex;
+      
     `
 
 
     return (
-
         <Background>
             <h1>MainBoard</h1>
         </Background>
